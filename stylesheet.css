@@ -12,13 +12,13 @@ body {
 /* style borrowed from my GEOM101 website https://shanemfleming.github.io/stylesheet.css */
 h1 {
     font-family: Verdana, Helvetica, sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
     text-align: center;
 }
 
 p {
-    padding: 20px;
-    text-align: center;
+    padding: 5px;
+    width: 90%
 }
 
 /* .map style made with reference to https://www.w3schools.com/css/css_align.asp */
