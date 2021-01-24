@@ -18,7 +18,8 @@ h1 {
 
 p {
     padding: 5px;
-    width: 90%;
+    text-align: center;
+    width: 80%;
 }
 
 /* .map style made with reference to https://www.w3schools.com/css/css_align.asp */
