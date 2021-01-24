@@ -9,10 +9,15 @@ body {
 	margin-right: 100px;
 }
 
+/* style borrowed from my GEOM101 website https://shanemfleming.github.io/stylesheet.css */
+h1 {
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
 /* .map style made with reference to https://www.w3schools.com/css/css_align.asp */
 .map {
-    height: 480px;
-    width: 80%;
+    height: 700px;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     display: block;
