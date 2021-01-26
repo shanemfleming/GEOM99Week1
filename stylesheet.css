@@ -9,6 +9,18 @@ body {
 	margin-right: 100px;
 }
 
+/* style borrowed from my GEOM101 website https://shanemfleming.github.io/stylesheet.css */
+h1 {
+    font-family: Verdana, Helvetica, sans-serif;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+p {
+    padding: 5px;
+    text-align: center;
+}
+
 /* Navbar design pulled from my GEOM101 website */
 /* for nav bar design, I referenced https://www.w3schools.com/css/css_navbar.asp and adjusted the format for my website */
 .navbarul {
@@ -37,14 +49,7 @@ body {
 	text-decoration: underline;
 }
 
-/* style borrowed from my GEOM101 website https://shanemfleming.github.io/stylesheet.css */
-h1 {
-    font-family: Verdana, Helvetica, sans-serif;
-    margin-bottom: 45px;
-    text-align: center;
-}
-
-p {
-    padding: 5px;
-    text-align: center;
-}
+/* Pulled from https://developers.google.com/maps/documentation/javascript/overview#all */
+#map {
+    height: 100%;
+  }
