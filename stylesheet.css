@@ -9,6 +9,34 @@ body {
 	margin-right: 100px;
 }
 
+/* Navbar design pulled from my GEOM101 website */
+/* for nav bar design, I referenced https://www.w3schools.com/css/css_navbar.asp and adjusted the format for my website */
+.navbarul {
+	background-color: #424242;
+	list-style-type: none;
+	margin-bottom: 25px;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.navbarli {
+	float: left;
+	display: block;
+	padding: 15px 20px;
+	text-align: center;
+}
+.navbartxt {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	color: orange;
+	text-decoration: none;
+}
+.navbaract {
+	text-decoration: underline;
+}
+
 /* style borrowed from my GEOM101 website https://shanemfleming.github.io/stylesheet.css */
 h1 {
     font-family: Verdana, Helvetica, sans-serif;
@@ -19,8 +47,4 @@ h1 {
 p {
     padding: 5px;
     text-align: center;
-}
-
-#mapshark {
-    height: 100%;
 }
