@@ -51,5 +51,5 @@ p {
 
 /* Pulled from https://developers.google.com/maps/documentation/javascript/overview#all */
 #map {
-    height: 100%;
+    height: 700px;
   }
