@@ -67,3 +67,7 @@ p {
 #map {
     height: 700px;
   }
+
+#jsonframe {
+	background-color: white;
+}
